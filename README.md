@@ -1,4 +1,4 @@
-## Bonjour a tous, je m'apelle Speeder7500 ! 👋
+## Bonjour a tous, je m'appelle Speeder7500 ! 👋
 
 ### 👨‍💻 A propos de moi
 Je suis Speeder7500, j'ai 19 ans. Je suis un jeune développeur qui fait principalement du développement web avec du HTML, CSS, PHP et JavaScript. 
