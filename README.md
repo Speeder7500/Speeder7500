@@ -1,8 +1,8 @@
 ## Bonjour a tous, je m'apelle Speeder7500 ! 👋
 
 ### 👨‍💻 A propos de moi
-Je suis Speeder7500, j'ai 19ans. Je suis un jeune développeur qui fait principalement du développement web avec du HTML, CSS, PHP et Javascript. 
-Je suis passioné par ce que je fait et adore apprendre de nouvelles façons de développer ou apprendre de nouveaux languages.
+Je suis Speeder7500, j'ai 19 ans. Je suis un jeune développeur qui fait principalement du développement web avec du HTML, CSS, PHP et JavaScript. 
+Je suis passionné par ce que je fais et adore apprendre de nouvelles façons de développer ou apprendre de nouveaux langages.
 J'ai pu également faire de la programmation orientée objet pendant ma formation de BTS SIO SLAM.
 
 ## 🛠️ Languages et outils
@@ -18,6 +18,11 @@ J'ai pu également faire de la programmation orientée objet pendant ma formatio
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+
+## 📂 Meilleurs projets
+- [API_Pokedex](https://github.com/Speeder7500/API_Pokedex)
+Création d'une API avec node.js qui permets de faire différentes actions avec son interface FRONTEND en HTML CSS et Javascript.
+
 
 ## 🔗 Liens extérieurs
 Voici mon [LinkedIn](https://www.linkedin.com/in/terry-douteau)
