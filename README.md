@@ -27,7 +27,7 @@ J'ai pu également faire de la programmation orientée objet pendant ma formatio
 Création d'une API avec node.js qui permets de faire différentes actions avec son interface FRONTEND en HTML CSS et Javascript.
 
 ## 📊 GitHub Stats
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Speeder7500&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Speeder7500&layout=compact&theme=radical)
 
 ## 🔗 Liens extérieurs
 Voici mon [LinkedIn](https://www.linkedin.com/in/terry-douteau)
