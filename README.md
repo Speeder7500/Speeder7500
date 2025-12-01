@@ -12,7 +12,7 @@ J'ai pu également faire de la programmation orientée objet pendant ma formatio
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 
-## Programation orientée objets
+## Programmation orientée objets
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)
@@ -27,6 +27,8 @@ J'ai pu également faire de la programmation orientée objet pendant ma formatio
 Création d'une API avec node.js qui permets de faire différentes actions avec son interface FRONTEND en HTML CSS et Javascript.
 - [Jokes-API](https://github.com/Speeder7500/Jokes-API)
 Consommation de l'api **JokeAPI** qui permets a l'utilisateur d'afficher un certain nombre de blagues choisit par lui même.
+- [rpg_game](https://github.com/Speeder7500/rpg_game)
+Découvrte du language dart en programmation orientée objet avec la création d'un petit jeu face a des bots
 
 
 ## 🔗 Liens extérieurs
