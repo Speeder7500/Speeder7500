@@ -20,4 +20,5 @@ J'ai pu également faire de la programmation orientée objet pendant ma formatio
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 
 ## 🔗 Liens extérieurs
-[LinkedIn](www.linkedin.com/in/terry-douteau)
+[LinkedIn](https://www.linkedin.com/in/terry-douteau)
+
