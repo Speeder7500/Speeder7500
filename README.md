@@ -26,11 +26,11 @@ J'ai pu également faire de la programmation orientée objet pendant ma formatio
 - [API_Pokedex](https://github.com/Speeder7500/API_Pokedex)
 Création d'une API avec node.js qui permets de faire différentes actions avec son interface FRONTEND en HTML CSS et Javascript.
 
-## 📊 GitHub Stats
 ## 📊 Mes statistiques GitHub
-
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Speeder7500&show_icons=true&theme=radical)
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Speeder7500&layout=compact&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Speeder7500&theme=radical&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## 🔗 Liens extérieurs
 Voici mon [LinkedIn](https://www.linkedin.com/in/terry-douteau)
