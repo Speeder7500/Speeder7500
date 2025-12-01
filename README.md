@@ -25,6 +25,8 @@ J'ai pu également faire de la programmation orientée objet pendant ma formatio
 ## 📂 Meilleurs projets
 - [API_Pokedex](https://github.com/Speeder7500/API_Pokedex)
 Création d'une API avec node.js qui permets de faire différentes actions avec son interface FRONTEND en HTML CSS et Javascript.
+- [Jokes-API](https://github.com/Speeder7500/Jokes-API)
+Consommation de l'api **JokeAPI** qui permets a l'utilisateur d'afficher un certain nombre de blagues choisit par lui même.
 
 
 ## 🔗 Liens extérieurs
