@@ -23,6 +23,10 @@ J'ai pu également faire de la programmation orientée objet pendant ma formatio
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 
 ## 📂 Meilleurs projets
+- [Gestion_de_circuit](https://github.com/Speeder7500/Gestion_de_circuit)
+Application web pour un circuit automobile en fonctionnement avec un serveur API NodeJs
+- [speedciruitgestion](https://github.com/Speeder7500/speedcircuitgestion)
+Application mobile en flutter qui permets de gérer notamment la disponibilité des véhicules à la location pour le projet juste au dessus
 - [API_Pokedex](https://github.com/Speeder7500/API_Pokedex)
 Création d'une API avec node.js qui permets de faire différentes actions avec son interface FRONTEND en HTML CSS et Javascript.
 - [Jokes-API](https://github.com/Speeder7500/Jokes-API)
