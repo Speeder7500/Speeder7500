@@ -3,7 +3,7 @@
 ### 👨‍💻 A propos de moi
 Je suis Speeder7500, j'ai 19 ans. Je suis un jeune développeur qui fait principalement du développement web avec du HTML, CSS, PHP et JavaScript. 
 Je suis passionné par ce que je fais et adore apprendre de nouvelles façons de développer ou apprendre de nouveaux langages.
-J'ai pu également faire de la programmation orientée objet pendant ma formation de BTS SIO SLAM.
+J'ai pu également faire de la programmation orientée objet pendant ma formation de BTS SIO SLAM avec les languages C# et Dart plus le framework Dart Flutter.
 
 ## 🌐 Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
