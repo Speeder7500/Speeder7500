@@ -21,6 +21,7 @@ J'ai pu également faire de la programmation orientée objet pendant ma formatio
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white&style=for-the-badge)
 
 ## 📂 Meilleurs projets
 - [Gestion_de_circuit](https://github.com/Speeder7500/Gestion_de_circuit)
